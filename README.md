@@ -4,7 +4,7 @@ This project is a web application built using React that allows users to explore
 
 ### Features
 
-- Find nearby places such as restaurants, cafes, and attractions.
+- Find nearby place such as restaurant, cafe, and attraction.
 
 ### Technologies Used
 
